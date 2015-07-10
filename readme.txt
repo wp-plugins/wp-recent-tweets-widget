@@ -13,7 +13,7 @@ Easy to add twitter recent tweets on your WordPress site by using the Recent Twe
 
 Twitter is one of the most powerful and highly influential social networking tool on the planet. 
 
-<h2>: To find your oauth access and consumer tokens :</h2>
+<strong>: To find your oauth access and consumer tokens :</strong>
 
 <ul>
 	<li>You will need a Twitter account. If you don’t already have one, <a href="https://twitter.com/signup" target="_blank">create an account</a>.</li>
