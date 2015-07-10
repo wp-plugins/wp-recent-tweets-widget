@@ -1,4 +1,4 @@
-=== WP Recent Tweets Widget ===
+=== Recent Tweets Widget ===
 Contributors: chandrakeshkumar,wp-chandra,chandgiri67
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
