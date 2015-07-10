@@ -26,7 +26,7 @@ Easy to add twitter recent tweets on your WordPress site by using the Recent Twe
 == Screenshots ==
  
 1. Widget Setting Options
-2. Display recent tweet lists.
+2. Display recent tweet lists
 
 == Changelog ==
 
