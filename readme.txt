@@ -1,5 +1,5 @@
 === WP Recent Tweets Widget ===
-Contributors: chandgiri67,wpchandra
+Contributors: chandgiri67,wp-chandra
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: twitter, twitter feed, tweet, twitter widget, feed, widget, twitter sidebar, social, social media, sidebar, plugin
