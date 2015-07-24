@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Recent Tweets Widget
+Plugin Name: Recent Tweets Widget 
 Plugin URI: http://wordpress.org/extend/plugins/wp-recent-tweets-widget/
 Description: Easy to add twitter recent tweets on your WordPress site by using the Recent Tweets Widget plugin.
 Version: 1.0
