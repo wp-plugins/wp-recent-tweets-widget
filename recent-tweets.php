@@ -13,7 +13,7 @@ Author URI: http://www.wpchandra.com/
 class WP_Recent_Tweets_Widget extends WP_Widget {
 
     /** constructor */
-    public function __construct() {
+    public function __construct() { 
         parent::__construct(
             'twitter_widget', // Base ID
             'Recent Tweets', // Name
