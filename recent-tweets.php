@@ -12,7 +12,7 @@ Author URI: http://www.wpchandra.com/
 // ===============================WP Recent Tweets Widget  ======================================
 class WP_Recent_Tweets_Widget extends WP_Widget {
 
-    /** constructor */
+    /** constructor */ 
     public function __construct() { 
         parent::__construct(
             'twitter_widget', // Base ID
