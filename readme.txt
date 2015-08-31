@@ -1,5 +1,5 @@
 === Recent Tweets Widget ===
-Contributors: chandrakeshkumar,wp-chandra,chandgiri67
+Contributors: chandrakeshkumar,wp-chandra
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2V34FUDP29MLC
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
