@@ -25,21 +25,19 @@ Twitter is one of the most powerful and highly influential social networking too
 	<li>When finished, click “Create my access token.”</li>
 </ul>
 
-### About
+### Find Us on Social Media
 
-* [The plugin designed and developed by Chandrakesh Kumar.](https://profiles.wordpress.org/chandrakeshkumar/#content-plugins)
-* [Chandrakesh Kumar on Facebook.](https://www.facebook.com/chandrakesh.kumar.giri)
-* [Chandrakesh Kumar on Twitter.](https://twitter.com/chanderkeshgiri)
-* [LinkedIn on Twitter.](http://in.linkedin.com/in/chanderkeshgiri)
-
-
-### More Plugins
-
-* [My Plugins](https://profiles.wordpress.org/chandrakeshkumar/#content-plugins)
+* [Facebook](https://www.facebook.com/pages/WPChandra-To-Start-for-Web-Development/325741047605388?fref=ts)
+* [Twitter](https://twitter.com/webchandra)
+* [LinkedIn](https://www.linkedin.com/company/wpchandra)
 
 
 = Features =
 * Easy Twitter Tweets Widget Plugin is very easy to setup and use.
+
+== Frequently Asked Questions ==
+
+There are no FAQ just yet
 
 == Installation ==
 
