@@ -7,7 +7,7 @@ Version: 1.0
 Author: Chandrakesh Kumar   
 Author URI: http://www.wpchandra.com/
 Tags: twitter,twitter recent tweets, twitter feed, tweet, twitter widget, feed, widget, twitter sidebar, social, social media, sidebar, plugin
-*/   
+*/    
           
 // ===============================WP Recent Tweets Widget  ======================================
 
